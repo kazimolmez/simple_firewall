@@ -6,7 +6,7 @@
  * Version 1.0
  *
  * Copyright 2015, Kazım Ölmez
- * Released under the GNU General license
+ * Released under the GNU GENERAL PUBLIC LICENSE
  */
  
 if(isset($_GET)){
