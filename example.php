@@ -1,0 +1,5 @@
+<?php
+require('firewall.php');
+
+...
+?>
